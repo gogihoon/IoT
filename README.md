@@ -67,3 +67,4 @@ void draw() {
   
 # 앱인벤터 설명  
 
+<img src="https://user-images.githubusercontent.com/61526925/204814472-9455fee6-27e3-47a3-bcf7-1ae5ed8c8f33.png">
