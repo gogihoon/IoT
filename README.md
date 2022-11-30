@@ -68,3 +68,5 @@ void draw() {
 # 앱인벤터 설명  
 
 <img src="https://user-images.githubusercontent.com/61526925/204814472-9455fee6-27e3-47a3-bcf7-1ae5ed8c8f33.png">
+첫번쨰 블록 : 서버(프로세싱)에서 택스트(온도)가 오면 -> lable1의 텍스트를 받은 온도값으로 넣는다.  
+두번째 블록 : 틱마다 -> 서버로 textbox1의 내용을 보낸다(led 주기) and 서버에서 값을 받아온다.
