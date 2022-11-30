@@ -4,9 +4,9 @@
 <img src="https://user-images.githubusercontent.com/61526925/204763893-f2a8641a-3b45-47da-be86-6a52e59cba0c.gif">
 
 # 아두이노 코드 설명
-void setup(){
-  Serial.begin(9600); // 시리얼을 시작합니다
-  pinMode(13, OUTPUT); // 13번에 led를 꽂고 사용합니다.
+void setup(){  
+  Serial.begin(9600); // 시리얼을 시작합니다  
+  pinMode(13, OUTPUT); // 13번에 led를 꽂고 사용합니다.  
 }
 
 
